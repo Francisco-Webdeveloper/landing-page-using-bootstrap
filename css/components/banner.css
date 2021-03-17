@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("../../images/background-lisbon.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+div {
+  display: block;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  font-size: 20px;
+  text-shadow: 2px 2px 3px rgba(0,0,0,.9);
+}
